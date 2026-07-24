@@ -45,3 +45,6 @@ KKBox's leadership identified a rise in subscription cancellations (churn) and a
 
 ## Key Strategic Insights
 *Coming soon — pending dashboard completion.*
+
+## Data Source
+Dataset: [KKBox Churn Prediction Challenge](https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data) (Kaggle)
