@@ -1,71 +1,47 @@
-# "Salvem as Assinaturas!" (Caso KKBox)
-*Em desenvolvimento*
+# KKBox Subscription Churn Analysis
+**Status: In Progress**
 
--------------------
+## Overview
 
-## Dashboard Executivo
+This project is part of the **DataGirls** study group, developed to consolidate and apply the skills learned during 6 weeks of sessions and mentorship.
 
+The project analyzes user behavior on KKBox, a Taiwanese music streaming app, and the drivers behind subscription cancellations (churn). The dataset was sourced from Kaggle and includes tables on user profiles, financial transactions, and cancellations. Data was processed with SQL and explored through Power BI dashboards.
 
+## Business Objective
 
-## Visão Geral
-Esse projeto faz parte do grupo de estudos Data Girls com a finalidade de sedimentar e aprimorar os conhecimentos adquiridos durante as 6 semanas de encontros e mentorias. 
-
-O projeto analisa o comportamento dos usuários do aplicativo taiwanês de música Kkbox e a motivação deles para cancelar a assinatura. O banco de dados foi baixado da plataforma Kaggle, contendo tabelas com informações sobre os usuários, transações financeiras e cancelamentos. Os dados foram tratados com SQL e posteriormente explorados em dashboards no Power BI.
-
-
-## Objetivo de negócio - Kkbox
-O diretor do aplicativo Kkbox verificou o aumento do cancelamento (churn) dos usuários e pediu à equipe de dados que descubra o por que os clientes estão cancelando a assinatura da plataforma. 
-A análise será desenvolvida a partir de uma base unificada, com o objetivo de entender o perfil dos clientes e das transações financeiras, visando entender a motivação do aumento do churn e assim, poder embasar estratégias para aumentar a retenção dos clientes.
+KKBox's leadership identified a rise in subscription cancellations (churn) and asked the data team to investigate the underlying causes. The analysis is built on a unified dataset, aiming to understand customer and transaction profiles in order to explain the increase in churn and support data-driven retention strategies.
 
 ## Dashboard
-*em desenvolvimento*
+*In development — a data loss required rebuilding this component; a more complete version is planned.*
 
-## Ferramentas utilizadas
-###  Banco de Dados
+## Tools
+
+**Database**
 - Databricks
 - SQL
-- Google sheets
-### Visualização de dados
+- Google Sheets
+
+**Data Visualization**
 - Power BI
 - Google Colab
 
-## Metodologia
-O projeto foi desenvolvido seguindo etapas estruturadas de análise de dados:
-1. Banco de dados baixado da plataforma Kaggle
-2. Extração e consulta dos dados 
-3. Limpeza e padronização de variáveis
-4. Tratamento de dados ausentes e inconsistências
-5. Criação de métricas analíticas derivadas
-6. Análise exploratória e estatística dos dados
-7. Desenvolvimento de dashboard
+## Methodology
 
+1. Dataset sourced from Kaggle
+2. Data extraction and querying
+3. Data cleaning and variable standardization
+4. Handling missing values and inconsistencies
+5. Creation of derived analytical metrics
+6. Exploratory and statistical analysis
+7. Dashboard development
 
-## Perguntas analíticas
-1. O perfil: Qual faixa etária mais cancela o aplicativo?
-2. A mecânica: Pessoas que têm a "renovação automática" ativada cancelam menos
-do que as que pagam manualmente todo mês?
-3. O financeiro: Dar desconto no valor do plano realmente impede o cliente de
-cancelar?
-4. O gênero do usuário afeta o churn?
-5. Clientes com mais tempo de casa são mais fiéis?
+## Analytical Questions
 
-## Principais Insights Estratégicos
+1. **Profile** — Which age group cancels the most?
+2. **Mechanics** — Do users with auto-renewal enabled churn less than those who pay manually each month?
+3. **Financial** — Does offering a discount actually reduce cancellation?
+4. **Gender** — Does user gender affect churn?
+5. **Loyalty** — Are longer-tenured customers more loyal?
 
-## Sobre o projeto
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Key Strategic Insights
+*Coming soon — pending dashboard completion.*
